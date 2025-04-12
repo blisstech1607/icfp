@@ -1,0 +1,56 @@
+input[type="submit"]
+{
+    color: #009Dff !important;
+    background: #fff;
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+    border-color: #ffffff;
+    display: block;
+    width: 60%;
+    float: right;
+    border: 1px solid #009DFF;
+
+}
+
+input[type="submit"]:hover {
+    background-color:  #1b79bdb5;;
+    color: #fff;
+         background-color: #009Dff;
+    color: #fff !important;
+    border: 1px solid #009Dff;
+}
+
+input[type="submit"]:disabled {
+    color: #999;
+}
+input[type="submit"]:disabled:hover {
+  background: #C4C4C4;
+  color: #fff !important;
+  border: 1px solid #009DFF;
+  cursor: no-drop;
+}
+
+
+/* ==================
+ *  CAPTCHA ELEMENTS
+ * ================== */
+#captchaInput {
+    width: 4.0em;
+    height:3.0em;
+    margin-left: .5em;
+    border-radius: 5px;
+}
+#captchaText {
+    font-size: 20px;
+    color:#000000;
+}
+
+
+.refresh-btn
+{
+    background: none;
+    border: none;
+    cursor: pointer;
+}
