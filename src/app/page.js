@@ -16,7 +16,7 @@ export default function Home() {
 
       {/* Welcome Text */}
       <h1 className="text-xl md:text-2xl lg:text-3xl font-semibold text-center mb-8 text-blue-800">
-        Welcome to Institute of Computer and Finance Professional
+        Welcome to Institute of Computer and Finance Professionals
       </h1>
 
       {/* Buttons */}
