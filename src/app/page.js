@@ -106,7 +106,7 @@ export default function Home() {
             </div>
             <h3 className="text-lg  text-gray-600 font-bold mb-2">Expert Faculty Support</h3>
             <p className="text-gray-600 text-sm">
-              "Our expert faculty provides exceptional guidance, ensuring high-quality education that empowers students to excel and succeed."
+              &quot;Our expert faculty provides exceptional guidance, ensuring high-quality education that empowers students to excel and succeed.&quot;
             </p>
           </div>
 
@@ -117,7 +117,7 @@ export default function Home() {
             </div>
             <h3 className="text-lg  text-gray-600 font-bold mb-2">Recognized Certifications</h3>
             <p className="text-gray-600 text-sm">
-              "Earn recognized certifications and attend workshops that enhance skills, broaden knowledge, and boost career opportunities."
+            &quot;Earn recognized certifications and attend workshops that enhance skills, broaden knowledge, and boost career opportunities.&quot;
             </p>
           </div>
 
@@ -128,7 +128,7 @@ export default function Home() {
             </div>
             <h3 className="text-lg  text-gray-600 font-bold mb-2">Placements Assistance</h3>
             <p className="text-gray-600 text-sm">
-              "Our dedicated placement assistance ensures every student is well-prepared and connected to rewarding career opportunities."
+            &quot;Our dedicated placement assistance ensures every student is well-prepared and connected to rewarding career opportunities.&quot;
             </p>
           </div>
 
@@ -139,7 +139,7 @@ export default function Home() {
             </div>
             <h3 className="text-lg  text-gray-600 font-bold mb-2">Happy Learners</h3>
             <p className="text-gray-600 text-sm">
-              "At our institute, joy and learning thrive together, creating a vibrant, nurturing environment for happy, successful learners."
+            &quot;At our institute, joy and learning thrive together, creating a vibrant, nurturing environment for happy, successful learners.&quot;
             </p>
           </div>
         </div>
